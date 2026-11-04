@@ -6,12 +6,12 @@ En esta página web iré escribiendo todo lo relacionado con las campañas de ro
 
 El contenido estará dividido por arcos y capítulos, además de entre los dos grupos.
 
->[!danger] Muy importante: Spoilers
->Es esencial que no mires contenido de personajes no jugables, objetos de la historia ni los resúmenes de los arcos ni las sesiones del grupo que no te pertenecen, pues están llenos de spoilers que arruinan tu experiencia y la de los demás.
+> [!danger] Muy importante: Spoilers
+> Es esencial que no mires contenido de personajes no jugables, objetos de la historia ni los resúmenes de los arcos ni las sesiones del grupo que no te pertenecen, pues están llenos de spoilers que arruinan tu experiencia y la de los demás.
 
 # Introducción
 
-Información básica que deberías saber sobre la campaña, temas y expectaciones del jugador y del narrador, y una guía con un poco de trasfondo e ideas para crear un personaje que tenga sentido, habilidades y un vínculo fuerte con la campaña y los temas que se van a explorar.
+Información básica que deberías saber sobre la campaña, temas y expectativas del jugador y del narrador, y una guía con un poco de trasfondo e ideas para crear un personaje que tenga sentido, habilidades y un vínculo fuerte con la campaña y los temas que se van a explorar.
 
 - **[[Antes de empezar a jugar]]**
 - **[[Creación de personaje]]**
