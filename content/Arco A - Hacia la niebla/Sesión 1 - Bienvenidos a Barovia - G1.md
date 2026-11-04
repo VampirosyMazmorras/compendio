@@ -13,10 +13,12 @@ Siguiendo las extrañas huellas, los personajes se perdieron en un bosque mister
 
 Una vez cruzado lo que parecía un umbral sin marcha atrás, el grupo recién formado se siguió adentrando en el bosque, y la niebla y la noche apresuraban en lo que parecía un ambiente totalmente hostil. Los ruidos provenientes de las sombras de los árboles parecían discernirse, y los aullidos de varios lobos hambrientos se acercaban con rapidez hacia el grupo.
 
-Como unos guías turísticos en este extraño plano terrenal, los amuletos conseguidos por los personajes les guiaron misteriosamente a lo que parecía una casa, un lugar seguro entre toda esa penumbra:
+Estos temas no pueden ser iniciados por los jugadores, sin embargo, debido a que la campaña tiene un mundo y una ambientación gótica, pueden aparecer en la historia. Por lo general, menciono estos temas de forma no explícita, breve y ligera, sin entrar en detalles, sin embargo, si prefieres que alguno de ellos se omita completamente, me lo puedes decir para acomodarlo:
 
 - El [[Cristal Ámbar]] brillaba en un color anaranjado y tiraba a Tito del cuello.
+
 - La [[Pluma de ángel]] era llevada por el viento desde el bolsillo de Zaffa hacia la mansión, dejando un extraño rastro detrás.
+
 - La [[Moneda eléctrica]] cayó en su borde y empezó a rodar hacia la casa guiando a Merri.
 
 Tras entender que las puertas de la mansión no se iban a abrir por las buenas, los protagonistas buscaron otra opción para infiltrarse en la vivienda, principalmente al ver lo que parecía un lobo o un perro en una sala, y el sonido de gente comiendo y festejando en el comedor. Una vez resuelto el problema de Zaffa y Merri con la altura para poder subir por la ventana, pudieron ver como el comedor que antes resonaba en bullicio se encontraba vacío a la vista. De la misma forma, el amenazante animal que parecía probar un peligro a tener en cuenta resultó estar disecado.
