@@ -1,6 +1,6 @@
 ![[m5063852740574_yellow_xl-2699765827.png]]
 
-Merri Brandigamo es un mediano que viaja desde la comarca en busca de dinero, mujeres y una gastronomía que sorprenda a su paladar.
+Merri Brandigamo es un mediano que viaja desde la Comarca en busca de dinero, mujeres y una gastronomía que sorprenda a su paladar.
 
 ---
 
