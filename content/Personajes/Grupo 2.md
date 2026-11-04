@@ -1,0 +1,1 @@
+Todavía no hay personajes del grupo 2.

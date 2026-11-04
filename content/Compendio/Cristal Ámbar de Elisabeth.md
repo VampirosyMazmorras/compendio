@@ -1,0 +1,1 @@
+Este fragmento de ámbar fue extraído de un joyero en la suite principal de la Mansión Durst. Viste sutilmente con una luz ámbar apagada y emite una calidez agradable.

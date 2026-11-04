@@ -1,0 +1,1 @@
+El grupo 2 todavía no se ha encontrado con objetos propios de la historia.

@@ -1,0 +1,2 @@
+![[Electrum Coin.png]]
+En tu búsqueda de riqueza, diste por casualidad con esta vieja moneda de electro despostillada, acuñada con el perfil de un noble orgulloso pero de aspecto frío. Cuando se mira con cierta luz, la expresión del noble parece cambiar de una firme y aristocrática burla a un gruñido feral y monstruoso.

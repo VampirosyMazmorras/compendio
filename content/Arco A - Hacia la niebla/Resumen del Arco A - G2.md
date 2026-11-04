@@ -1,0 +1,1 @@
+El Arco A todavía no ha empezado para el grupo 2.

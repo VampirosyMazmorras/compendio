@@ -1,0 +1,4 @@
+![[Rose and Thorn (1) 1.png]]
+Thorn es el hermano pequeño de [[Rosavalda (Rose) Durst]] y el hijo de Gustav y Elisabeth Durst, es un chico inocente que no tiene mucho entendimiento de todo lo que pasa a su alrededor. Siempre suele tener miedo de la casa y de la reclusión que sufre; si no fuese por su hermana y por sus juguetes, habría terminado en la locura.
+
+Sufrió el mismo destino que su hermana, en el cual sus padres les advirtieron no bajar al sótano por la presencia de un monstruo, del que podían huir gritos de dolor, rugidos y sonidos horripilantes. A medida que los ruidos aumentaban y con ellos la tensión de sus padres, los mismos decidieron encerrar a los hermanos en el ático de la casa, donde murieron de hambre y sed, sepultados para siempre en la misma habitación, esperando a que sus padres les digan que pueden volver a casa.

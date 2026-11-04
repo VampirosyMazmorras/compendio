@@ -1,0 +1,2 @@
+![[Amber Shard.png]]
+En tu búsqueda de conocimiento, te topaste con este pequeño fragmento de resina de ámbar montado en un cordón de eslabones de cadena. El fragmento tiene incrustadas runas arcanas complejas y tridimensionales.

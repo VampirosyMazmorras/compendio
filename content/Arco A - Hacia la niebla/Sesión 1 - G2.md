@@ -1,0 +1,1 @@
+El grupo 2 todavía no ha tenido la primera sesión.

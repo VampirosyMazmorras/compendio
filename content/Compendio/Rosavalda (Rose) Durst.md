@@ -1,0 +1,4 @@
+![[Rose and Thorn (1) 1.png]]
+Rose es la hermana mayor de [[Thornboldt (Thorn) Durst]] y la hija de Gustav y Elisabeth Durst, es una chica que trata de cubrir sus miedos y horrores con valentía, y prioriza ante todo cuidar de su hermano.
+
+Sufrió el mismo destino que su hermano, en el cual sus padres les advirtieron no bajar al sótano por la presencia de un monstruo, del que podían huir gritos de dolor, rugidos y sonidos horripilantes. A medida que los ruidos aumentaban y con ellos la tensión de sus padres, los mismos decidieron encerrar a los hermanos en el ático de la casa, donde murieron de hambre y sed, sepultados para siempre en la misma habitación, esperando a que sus padres les digan que pueden volver a casa.
