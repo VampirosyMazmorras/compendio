@@ -18,7 +18,7 @@ En esta página puedes leer toda la información que deberías saber antes de ju
 
 ## Temas potencialmente incómodos
 
-Estos temas no pueden ser iniciados por los jugadores, sin embargo, debido a que la campaña tiene un mundo y una ambientación gótica, pueden aparecer en la historia. Por lo general, menciono estos temas de forma no explícita, breve y ligera, sin entrar en detalles, sin embargo, si prefieres que alguno de ellos se omita completamente, me lo puedes decir para acomodarlo:
+Estos temas no pueden ser iniciados por los jugadores, sin embargo, debido a que la campaña tiene un mundo y una ambientación gótica, pueden aparecer en la historia:
 
 - Niños abusados y/o muertos.
 
@@ -37,6 +37,9 @@ Estos temas no pueden ser iniciados por los jugadores, sin embargo, debido a que
 - Horror corporal.
 
 - Racismo.
+
+>[!info]Si quieres omitir algo por completo
+> Por lo general, menciono estos temas de forma implícita o sin indagar mucho. Si aún así quieres que no haya ningún rastro de alguno de estos temas, me lo puedes decir para acomodarlo.
 
 ## Cosas importantes a tener en cuenta
 
