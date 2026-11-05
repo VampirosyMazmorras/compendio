@@ -20,8 +20,9 @@ Información básica que deberías saber sobre la campaña, temas y expectativas
 
 Todo sobre los personajes y sus fichas, estén vivos o muertos.
 
->[!warning] Aprenderse el personaje
+>[!todo] Aprenderse el personaje
 >Aunque no es necesario memorizar todo respecto a tu personaje, el combate está balanceado para que lo uses al máximo de sus capacidades.
+>
 >Si no utilizas pasivas, empiezas combates sin equipar objetos que te sirven o no activas habilidades esenciales porque no sabes que las tienes, el combate va a ser considerablemente más difícil o incluso injusto.
 
 - **[[Grupo 1]]**
