@@ -4,7 +4,7 @@ title: Vampiros y Mazmorras
 
 En esta página web iré escribiendo todo lo relacionado con las campañas de rol, con información tanto general como para los dos grupos. A medida que pasen las sesiones, iré añadiendo resúmenes, información de personajes y otros datos importantes. La idea es que tanto vosotros como yo lo podamos revisar para recordar algo de antes y no mezclar cosas entre los dos grupos.
 
-El contenido estará dividido por arcos y capítulos, además de entre los dos grupos.
+El contenido estará dividido por arcos y sesiones, además de entre los dos grupos.
 
 > [!danger] Muy importante: Spoilers
 > Es esencial que no mires contenido de personajes no jugables, objetos de la historia ni los resúmenes de los arcos ni las sesiones del grupo que no te pertenecen, pues están llenos de spoilers que arruinan tu experiencia y la de los demás.
