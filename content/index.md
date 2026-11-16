@@ -11,16 +11,14 @@ El contenido estará dividido por arcos y capítulos, además de entre los dos g
 > 
 > Incluso si quieres leer sesiones de otros jugadores que tú ya has jugado para ver qué decisiones tomaron, es posible que sus acciones hayan revelado información que tu no aprenderás hasta más tarde.
 
-## Introducción
----
+# Introducción
 
 Información básica que deberías saber sobre la campaña, temas y expectaciones del jugador y del narrador, y una guía con un poco de trasfondo e ideas para crear un personaje que tenga sentido, habilidades y un vínculo fuerte con la campaña y los temas que se van a explorar.
 
 - **[[Antes de empezar a jugar]]**
 - **[[Creación de personaje]]**
 
-## Personajes
----
+# Personajes
 
 Todo sobre los personajes y sus fichas, estén vivos o muertos.
 
@@ -33,16 +31,14 @@ Todo sobre los personajes y sus fichas, estén vivos o muertos.
 - **[[Grupo 2]]**
 - **[[Cementerio]]**
 
-## Compendio
----
+# Compendio
 
 Glosario de todos los personajes y objetos de la historia, para no tener que buscarlos por sesiones.
 
 - **[[Personajes no jugables]]**
 - **[[Objetos de la historia]]**
 
-## Arco A
----
+# Arco A
 
 Información y recapitulaciones del primer arco y de todas sus sesiones.
 
