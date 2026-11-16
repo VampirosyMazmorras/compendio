@@ -12,6 +12,7 @@ El contenido estará dividido por arcos y capítulos, además de entre los dos g
 > Incluso si quieres leer sesiones de otros jugadores que tú ya has jugado para ver qué decisiones tomaron, es posible que sus acciones hayan revelado información que tu no aprenderás hasta más tarde.
 
 ## Introducción
+---
 
 Información básica que deberías saber sobre la campaña, temas y expectaciones del jugador y del narrador, y una guía con un poco de trasfondo e ideas para crear un personaje que tenga sentido, habilidades y un vínculo fuerte con la campaña y los temas que se van a explorar.
 
@@ -19,14 +20,21 @@ Información básica que deberías saber sobre la campaña, temas y expectacione
 - **[[Creación de personaje]]**
 
 ## Personajes
+---
 
 Todo sobre los personajes y sus fichas, estén vivos o muertos.
+
+>[!abstract] Aprenderse el personaje
+>No es necesario aprender tu personaje de memoria. No tienes que saber a la perfección todos tus dotes ni todos tus hechizos, sin embargo, es bastante recomendable que vengas a jugar teniendo una muy buena idea de todas tus opciones, sepas qué puedes hacer y qué hacen tus habilidades.
+>
+>Saber esto no sólo agiliza el juego y el combate, sino que te ayuda a combatir de forma más eficaz y divertida. El combate está balanceado para que uses tu personaje al máximo, así que si no conoces tus pasivas, no usas habilidades que tienes o dejas pasar oportunidades clave por desconocimiento, el combate será injusto, muy difícil, monótono y aburrido.
 
 - **[[Grupo 1]]**
 - **[[Grupo 2]]**
 - **[[Cementerio]]**
 
 ## Compendio
+---
 
 Glosario de todos los personajes y objetos de la historia, para no tener que buscarlos por sesiones.
 
@@ -34,6 +42,7 @@ Glosario de todos los personajes y objetos de la historia, para no tener que bus
 - **[[Objetos de la historia]]**
 
 ## Arco A
+---
 
 Información y recapitulaciones del primer arco y de todas sus sesiones.
 
