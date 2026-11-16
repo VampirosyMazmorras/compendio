@@ -35,6 +35,7 @@ Cuando los aventureros empezaron a bajar, los cánticos de quien estuviese abajo
 Tras pensar sobre cómo continuar, [[Zaffa de la Sigma CHE]] decidió colocar una de sus numerosas y famosas dagas en un altar vacío de entre las otras reliquias de la primera de las salas. Tras hacer esto y usar magia para iniciar un ritual, la primera de las puertas se abrió para los aventureros, dando paso a la última y más macabras de las habitaciones.
 
 En esta sala de rituales, el agua reinaba por toda la habitación. En el centro de la misma, un altar con una calavera, sangre y una daga (de la que Zaffa se apropió), llamaba la atención de todos los intrusos, los espectros de los sectarios que aquí se encontraban, seguían cantando y requiriendo un sacrificio para saciar su hambre. Al final de la habitación, un pozo lleno de carne hacía esquina con las finas paredes.
+
 ![[Captura-fotor-bg-remover-2026111625048.png]]
 
 >[!example] Cánticos
