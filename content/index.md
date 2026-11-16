@@ -8,6 +8,8 @@ El contenido estará dividido por arcos y sesiones, además de entre los dos gru
 
 > [!danger] Muy importante: Spoilers
 > Es esencial que no mires contenido de personajes no jugables, objetos de la historia ni los resúmenes de los arcos ni las sesiones del grupo que no te pertenecen, pues están llenos de spoilers que arruinan tu experiencia y la de los demás.
+>
+> Incluso si quieres leer sesiones de otros jugadores que tú ya has jugado para ver qué decisiones tomaron, es posible que sus acciones hayan revelado información que tu no aprenderás hasta más tarde.
 
 # Introducción
 
@@ -42,3 +44,4 @@ Información y recapitulaciones del primer arco y de todas sus sesiones.
 
 - **[[Resumen del Arco A]]**
 - **[[Sesión 1]]**
+- **[[Sesión 2]]**

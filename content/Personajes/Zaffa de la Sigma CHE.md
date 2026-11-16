@@ -4,7 +4,7 @@ Zaffa de la Sigma CHE es un gnomo buscado por la ley tras cometer varios crímen
 
 ---
 
-- **Clase y nivel:** Bardo Nivel 1
+- **Clase y nivel:** Bardo Nivel 2
 - **Trasfondo:** Criminal
 - **Raza:** Gnomo del bosque
 
@@ -25,18 +25,20 @@ Zaffa de la Sigma CHE es un gnomo buscado por la ley tras cometer varios crímen
 
 ---
 
-- **Clase de armadura:** 13 base. +1 con Armadura de cuero.
+- **Clase de armadura:** 13 en total. 10 + Mod. Des. + 1 de Capa de Lujo.
 - **Iniciativa:** +5.
 - **Velocidad:** 9 metros/30 pies/6 casillas.
 - **Competencia:** +2.
-- **Puntos de salud:** 9 base.
-- **Dados de golpe:** 1d8.
+- **Puntos de salud:** 15 base.
+- **Dados de golpe:** 2d8.
 
 ---
 
 - **Rasgos de clase:**
   - **Inspiración bárdica:** Como acción adicional, puedes inspirar a otra criatura que esté a 18 metros o menos de ti y que te pueda ver u oír. Esa criatura obtiene uno de tus dados de Inspiración bárdica (1d6). Cada criatura no puede tener más de un dado de Inspiración bárdica. Una sola vez durante la siguiente hora, cuando la criatura falle una prueba con d20, podrá tirar el dado de Inspiración bárdica y sumar el resultado al d20, lo que podría hacerle superar la prueba. Un dado de Inspiración bárdica se gasta al tirarlo. Puedes conceder un dado de Inspiración bárdica una cantidad de veces igual a tu modificador por Carisma (2) y recuperas todos sus usos tras finalizar un descanso largo.
   - **Lanzamiento de conjuros:** Puedes usar trucos y conjuros.
+  - **Aprendiz de mucho:** Puedes sumar la mitad de tu bonificador por competencia (redondeando hacia abajo) a cualquier prueba de característica que hagas que utilice una habilidad en la que no seas competente y que no use de otro modo tu bonificador por competencia.
+  - **Pericia:** Ganas pericia en dos de tus competencias en habilidades de tu elección.
 
 - **Rasgos de especie:**
   - **Legado del gnomo del bosque:** Conoces el truco ilusión menor. Además, siempre tienes el conjuro hablar con los animales preparado. Puedes lanzarlo sin gastar un espacio de conjuro una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo. También puedes usar cualquier espacio de conjuro que tengas para lanzarlo.
@@ -49,21 +51,28 @@ Zaffa de la Sigma CHE es un gnomo buscado por la ley tras cometer varios crímen
 
 - **Armas:**
   - **Daga:** +5 para atacar. 1d4+3 de daño perforante. Melee y a distancia, rangos de 6 y 18 metros. Competente.
-  - **Cuchillo de cocina:** +5 para atacar. 1d4+3 de daño perforante. Melee y a distancia, rangos de 6 y 18 metros. Competente.
+  - **Daga:** +5 para atacar. 1d4+3 de daño perforante. Melee y a distancia, rangos de 6 y 18 metros. Competente.
+  - **Cuchillo de Cocina:** +5 para atacar. 1d4+3 de daño perforante. Melee y a distancia, rangos de 6 y 18 metros. Competente.
+  - **Cuchillo de Desuello Oxidado:** +5 para atacar. 1d4+3 de daño perforante. Melee y a distancia, rangos de 6 y 18 metros. Competente.
 
 - **Equipo:**
-  - **Armadura de cuero:** +1 a la CA. Competente.
+  - **Armadura de Cuero:** 14 de clase de armadura (11 + Mod. Des.). Competente.
+  - **Capa de Lujo:** Obtienes un bonificador +1 a la Clase de Armadura y a las tiradas de salvación mientras llevas puesta esta capa.
   - **3 Disfraces:** Tienes ventaja al tirar una habilidad cuando estás tratando de hacerte pasar por otra persona.
   - **Campana:** Puede provocar un sonido de hasta 18 metros de alcance.
   - **Antorcha:** Puedes encenderla y generar luz.
 
 - **Consumibles:**
   - **Linterna:** Puede encender luz durante 6 horas con un poco de aceite.
-  - **Aceite:** Lo puedes usar como combustible, para generar un área que provoca daño de fuego y para arrojarlo a un enemigo y que sufra más daño de fuego si se quema.
   - **Raciones:** Previenen el hambre.
   - **Agua:** Previenen la sed.
+  - **Fuego del alquemista:** Cuando realizas la acción de Atacar, puedes reemplazar uno de tus ataques por lanzar un frasco de Fuego del alquimista. Elige como objetivo a una criatura u objeto que puedas ver a 20 pies o menos de ti. El objetivo debe superar una tirada de salvación de Destreza (CD 8 más tu modificador por Destreza y tu bonificador por competencia) o sufrir 1d4 de daño de fuego y empezar a arder.
+  - **2 Pociones de curación:** Recuperas 2d4 + 2 puntos de golpe cuando bebes esta poción.
 
 - **Herramientas:**
+  - **Herramientas de ladrón: Utilizar: Forzar una cerradura (CD 15) o desactivar una trampa (CD 15)
+
+- **Botines:**
   - **Espejo:** Refleja imágenes y luz para dar señales.
   - **Saco de dormir:** Si estás dentro, siempre aciertas tiradas contra el frío extremo.
 
@@ -75,7 +84,7 @@ Zaffa de la Sigma CHE es un gnomo buscado por la ley tras cometer varios crímen
 - **Modificador por aptitud mágica:** +2 de carisma.
 - **Ataque:** +4 al atacar.
 - **CD de conjuro:** 12 para esquivar.
-- **Huecos de hechizo:** 2 de nivel 1.
+- **Huecos de hechizo:** 3 de nivel 1.
 
 - **Trucos:**
   - **Luces danzantes:** Creas hasta cuatro luces del tamaño de antorchas dentro del alcance. Puedes darles la apariencia de antorchas, linternas u orbes luminosos, y levitarán hasta que el conjuro termine. Como alternativa, combinas las cuatro luces en una sola de tamaño Mediano y aspecto vagamente humanoide. En ambos casos, cada luz proyecta una luz tenue en un radio de 3 metros.

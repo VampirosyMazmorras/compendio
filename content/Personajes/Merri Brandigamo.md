@@ -4,7 +4,7 @@ Merri Brandigamo es un mediano que viaja desde la Comarca en busca de dinero, mu
 
 ---
 
-- **Clase y nivel:** Luchador Nivel 1
+- **Clase y nivel:** Guerrero Nivel 2
 - **Trasfondo:** Soldado
 - **Raza:** Mediano piesligeros
 
@@ -25,20 +25,22 @@ Merri Brandigamo es un mediano que viaja desde la Comarca en busca de dinero, mu
 
 ---
 
-- **Clase de armadura:** 13 base. +3 con Armadura de cota de malla. +2 con escudo Durst.
+- **Clase de armadura:** 19 en total. 16 con Armadura de cota de malla. +2 con escudo Durst. +1 con estilo Defensa.
 - **Iniciativa:** +3.
 - **Velocidad:** 7,5 metros/25 pies/5 casillas.
 - **Competencia:** +2.
-- **Puntos de salud:** 12 base.
-- **Dados de golpe:** 1d10.
+- **Puntos de salud:** 20 base.
+- **Dados de golpe:** 2d10.
 
 ---
 
 - **Rasgos de clase:**
-  - **Estilo de lucha:** Elige un estilo de lucha. Puedes cambiarlo cada vez que subes de nivel. Actualmente has elegido "Combate con dos armas".
-  - **Combatiente con dos armas:** Cuando haces un ataque extra como resultado de utilizar un arma con la propiedad "ligera", puedes sumar tu modificador por característica al daño de ese ataque si no lo estás sumando ya al daño.
+  - **Estilo de lucha:** Elige un estilo de lucha. Puedes cambiarlo cada vez que subes de nivel. Actualmente has elegido "Defensa".
+  - **Defensa:** Cuando llevas una armadura ligera, media o pesada, ganas +1 en Clase de armadura.
   - **Tomar aliento:** Posees una pequeña reserva de resistencia física y mental a la que puedes recurrir. Como acción adicional, puedes usarla para recuperar una cantidad de puntos de golpe igual a 1d10 más tu nivel de guerrero. Puedes usar este rasgo dos veces. Recuperas uno de los usos gastados tras finalizar un descanso corto y todos tras finalizar un descanso largo.
   - **Maestría con armas:** Tu entrenamiento con armas te permite utilizar las propiedades de maestría con dos tipos de armas cuerpo a cuerpo sencillas o marciales de tu elección, como las hachas a dos manos y las hachas de mano. Tras finalizar un descanso largo, puedes llevar a cabo ejercicios con armas y cambiar una de dichas elecciones.
+  - **Acción súbita:** Puedes superar tus límites normales durante un instante. En tu turno, puedes llevar a cabo una acción más, salvo la acción de magia. Cuando uses este rasgo, no podrás volver a hacerlo hasta que finalices un descanso corto o largo.
+  - **Mente táctica:** Cuando falles una prueba de característica, podrás gastar un uso de tu rasgo Tomar aliento para esforzarte por superarla. En vez de recuperar puntos de golpe, tiras 1d10 y sumas el resultado a la prueba de característica, lo que podría convertir el fallo en un éxito. Si sigues sin superar la prueba, este uso de Tomar aliento no se gasta.
 
 - **Rasgos de especie:**
   - **Afortunado:** Cuando saques un 1 en un dado, puedes volver a tirar de nuevo y utilizar el nuevo resultado.
@@ -61,7 +63,10 @@ Merri Brandigamo es un mediano que viaja desde la Comarca en busca de dinero, mu
   - **Espadón Durst:** +4 para atacar. 1d8+3 de daño cortante. Melee. Competente.
 
 - **Equipo:**
-  - **Cota de malla:** +3 a la CA. Desventaja en sigilo. Competente.
+  - **Cota de malla:** 16 de CA base. Desventaja en sigilo. Competente.
+  - **Camisa de malla:** 15 de CA base (13 + Mod. Des. [Máx. 2]). Competente.
+  - **Escudo Durst:** +2 CA. Competente.
+  - **Linterna:** Una linterna sorda proyecta luz brillante en un cono de 60 pies y luz tenue durante 60 pies adicionales. Una vez encendida, arde durante 6 horas con un frasco (1 pinta) de aceite.
 
 - **Consumibles:**
   - **Flechas:** 60 unidades.
@@ -70,9 +75,12 @@ Merri Brandigamo es un mediano que viaja desde la Comarca en busca de dinero, mu
 - **Herramientas:**
   - **Baraja de cartas:** Cuando la usas puedes intentar discernir si alguien está haciendo trampas (CD 10), o ganar el juego (CD 20).
 
+- **Botines:**
+  - **Cepillo de Marfil**
+  - **Cubertería**
+
 - **Objetos de la historia:**
   - **[[Moneda eléctrica]]**
   - **[[Invitación Durst]]**
   - **[[Carta a Elisabeth Durst]]**
-
----
+  - **[[Registro de Experimentos]]**

@@ -1,0 +1,3 @@
+En el ático de la Mansión Durst, yace un espectro de una doncella sin dedos y con la boca sellada. Algunas noches, cuando suena música en la sala del conservatorio de la vivienda, se puede apreciar a esta doncella bailando con el fantasma de [[Gustav Durst]].
+
+La doncella murió a manos de la bestia contenida en el sótano de la casa, pero no de forma descontrolada o porque la misma se había descontrolado. Parece ser una figura triste, cuya historia terminó a manos de una madre de una edad no muy avanzada. Por lo visto, busca tranquilidad y descanso pero ante todo que aquellas personas que le arrebataron lo que le pertenecía sufran la venganza de sus acciones.

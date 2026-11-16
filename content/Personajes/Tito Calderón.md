@@ -4,7 +4,7 @@ Tito Calderón es un mago conocedor de todo pero experto en nada, que busca cono
 
 ---
 
-- **Clase y nivel:** Mago Nivel 1
+- **Clase y nivel:** Mago Nivel 2
 - **Trasfondo:** Erudito
 - **Raza:** Tiefling
 
@@ -25,12 +25,12 @@ Tito Calderón es un mago conocedor de todo pero experto en nada, que busca cono
 
 ---
 
-- **Clase de armadura:** 9 base.
+- **Clase de armadura:** 9 base (10 + Mod Des.).
 - **Iniciativa:** -1.
 - **Velocidad:** 9 metros/30 pies/6 casillas.
 - **Competencia:** +2.
-- **Puntos de salud:** 7 base.
-- **Dados de golpe:** 1d6.
+- **Puntos de salud:** 12 base.
+- **Dados de golpe:** 2d6.
 
 ---
 
@@ -48,21 +48,22 @@ Tito Calderón es un mago conocedor de todo pero experto en nada, que busca cono
 ---
 
 - **Armas:**
-  - **Daga:** +4 para atacar. 1d4+2 de daño perforante. Melee y a distancia, rangos de 6 y 18 metros. Competente.
   - **Bastón:** +4 para atacar. 1d6+2 de daño contundente. Melee. Competente.
 
 - **Equipo:**
-  - **Ropa de mago:** No ofrece cambios en combate.
-  - **Escudo Durst:** +2 a la CA. No competente.
+  - **Ropa de mago:** No ofrece cambios en combate.  
+  - **Anillo de oro:** Un anillo de oro extraído del dedo huesudo de un esqueleto hallado bajo la Mansión Durst.
 
 - **Consumibles:**
   - **Pergamino de conjuro - Protección contra el veneno:** Tocas a una criatura y finalizas la condición de envenenamiento en ella. Durante la duración, el objetivo tiene ventaja en las tiradas de salvación para evitar o terminar con la condición de envenenado, y tiene resistencia al daño por veneno.
-  - **Pergamino de conjuro - Arma espiritual:** Creas una fuerza espectral y flotante que se asemeja a un arma de tu elección y dura mientras dure el conjuro. La fuerza aparece dentro del alcance en un espacio que elijas, y puedes realizar inmediatamente un ataque de conjuro cuerpo a cuerpo contra una criatura situada a 5 pies o menos de la fuerza. Si impacta, el objetivo recibe daño de fuerza igual a 1d8 más tu modificador por característica para lanzar conjuros. Como acción adicional en tus turnos posteriores, puedes mover la fuerza hasta 20 pies y repetir el ataque contra una criatura situada a 5 pies o menos de ella. Usar un espacio de conjuro de nivel superior. El daño aumenta en 1d8 por cada nivel de espacio por encima de 2.
   - **Pergamino de conjuro - Bendición:** Bendices hasta a tres criaturas dentro del alcance. Siempre que un objetivo realice una tirada de ataque o una tirada de salvación antes de que termine el conjuro, el objetivo añade 1d4 a la tirada de ataque o de salvación. Usar un espacio de conjuro de nivel superior. Puedes elegir como objetivo a una criatura adicional por cada nivel de espacio de conjuro por encima de 1.
 
-- **Herramientas:**
+- **Botines:**
   - **Foco arcano:** Puedes usarlo para reemplazar un componente necesario para usar un conjuro.
   - **Libro de conjuros:** Donde escribes, almacenas y lees todos los conjuros que conoces y preparas.
+  - **Parche de joyas**
+  - **Piedra musgosa**
+  - **Libro de conjuros amarillo:** Este libro de conjuros amarillo es un tomo encuadernado en cuero relleno de páginas de vitela adecuadas para anotar conjuros. En su interior se encuentran inscritos los siguientes conjuros de mago. Nivel 1: Disfrazarse, Identificar, Misil mágico, Protección contra el bien y el mal. Nivel 2: Visión en la oscuridad, Inmovilizar persona, Invisibilidad, Arma mágica.
 
 - **Objetos de la historia:**
   - **[[Carta a Drasha]]**
@@ -76,7 +77,7 @@ Tito Calderón es un mago conocedor de todo pero experto en nada, que busca cono
 - **Modificador por aptitud mágica:** +3 de inteligencia.
 - **Ataque:** +5 al atacar.
 - **CD de conjuro:** 13 para esquivar.
-- **Huecos de hechizo:** 2 de nivel 1.
+- **Huecos de hechizo:** 3 de nivel 1.
 
 - **Trucos:**
   - **Taumaturgia:** Manifiestas un pequeño milagro dentro del alcance y produces uno de los siguientes efectos mágicos. Si lanzas este conjuro varias veces, puedes mantener activos a la vez hasta tres de sus efectos de 1 minuto.

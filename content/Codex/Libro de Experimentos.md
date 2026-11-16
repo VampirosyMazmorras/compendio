@@ -1,0 +1,1 @@
+Un libro encuadernado en cuero negro mugriento. Está escrito por una sirvienta llamada Drasha y contiene una lista de nombres y descripciones físicas, junto con los detalles de sus destinos. Todos los destinos terminan siendo "…alimentado/a a Walter".
