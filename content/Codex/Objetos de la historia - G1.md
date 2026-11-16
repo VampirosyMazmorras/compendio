@@ -12,4 +12,4 @@
 - **[[Carta de Klara]]**
 - **[[Carta a Drasha]]**
 - **[[Cristal Ámbar de Elisabeth]]**
-- **[[Libro de experimentos]]**
+- **[[Registro de experimentos]]**

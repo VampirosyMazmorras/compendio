@@ -12,7 +12,7 @@ Tras responder esta serie de preguntas, otro espectro femenino hizo presencia en
 Una vez dentro del rocoso sótano de la mansión, los personajes principales investigaron los finos y estrechos pasadizos. El primer estímulo que destacaba era una serie de cánticos de un nivel aún más inferior, que retomaba alrededor de una serie de catacumbas con sarcófagos de todos los miembros de la familia y sus nombres inscritos en ellos. En una habitación continua, se hallaba un sala llena de camas y dormitorios con un gran pozo en el centro de la sala. 
 
 > [!tip] Documentos importantes
-> Entre los cofres y las pertenencias de las habitaciones, aparte de diversas joyas y objetos preciosos, se descubría un [[Libro de Experimentos]].
+> Entre los cofres y las pertenencias de las habitaciones, aparte de diversas joyas y objetos preciosos, se descubría un [[Registro de Experimentos]].
 
 Más adelante, se podía apreciar una sala completamente llena de esqueletos y otros cadáveres muertos, junto una escultura que sostenía un orbe oscuro del que emanaba un aura de mágica arcana. Las paredes estaban llenas de tenebrosas pintadas, hechas principalmente con sangre de víctimas.
 

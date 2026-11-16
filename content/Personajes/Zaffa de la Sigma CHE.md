@@ -70,7 +70,7 @@ Zaffa de la Sigma CHE es un gnomo buscado por la ley tras cometer varios crímen
   - **2 Pociones de curación:** Recuperas 2d4 + 2 puntos de golpe cuando bebes esta poción.
 
 - **Herramientas:**
-  - **Herramientas de ladrón: Utilizar: Forzar una cerradura (CD 15) o desactivar una trampa (CD 15)
+  - **Herramientas de ladrón:** Utilizar: Forzar una cerradura (CD 15) o desactivar una trampa (CD 15)
 
 - **Botines:**
   - **Espejo:** Refleja imágenes y luz para dar señales.
