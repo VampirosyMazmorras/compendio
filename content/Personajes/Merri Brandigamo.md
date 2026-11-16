@@ -69,8 +69,8 @@ Merri Brandigamo es un mediano que viaja desde la Comarca en busca de dinero, mu
   - **Linterna:** Una linterna sorda proyecta luz brillante en un cono de 60 pies y luz tenue durante 60 pies adicionales. Una vez encendida, arde durante 6 horas con un frasco (1 pinta) de aceite.
 
 - **Consumibles:**
-  - **Flechas:** 60 unidades.
-  - **Flechas de plata:** 5 unidades. Si haces un crítico ante una criatura que ha cambiado de forma, añades 1 dado de daño adicional.
+  - **Flechas:** 59 unidades.
+  - **Flechas de plata:** 4 unidades. Si haces un crítico ante una criatura que ha cambiado de forma, añades 1 dado de daño adicional.
 
 - **Herramientas:**
   - **Baraja de cartas:** Cuando la usas puedes intentar discernir si alguien está haciendo trampas (CD 10), o ganar el juego (CD 20).

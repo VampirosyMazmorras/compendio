@@ -25,7 +25,7 @@ Zaffa de la Sigma CHE es un gnomo buscado por la ley tras cometer varios crímen
 
 ---
 
-- **Clase de armadura:** 13 en total. 10 + Mod. Des. + 1 de Capa de Lujo.
+- **Clase de armadura:** 14 en total. 10 + Mod. Des. + 1 de Capa de Lujo.
 - **Iniciativa:** +5.
 - **Velocidad:** 9 metros/30 pies/6 casillas.
 - **Competencia:** +2.
