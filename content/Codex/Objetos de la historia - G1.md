@@ -1,10 +1,12 @@
-# Reliquias del destino
+# Arco A
+
+### Reliquias del Destino
 
 - **[[Pluma de ángel]]**
 - **[[Cristal Ámbar]]**
 - **[[Moneda eléctrica]]**
 
-# Mansión Durst
+### Mansión Durst
 
 - **[[Invitación Durst]]**
 - **[[Polvos misteriosos]]**
