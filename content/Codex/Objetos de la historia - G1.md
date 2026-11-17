@@ -1,11 +1,11 @@
-### Reliquias del destino
----
+# Reliquias del destino
+
 - **[[Pluma de ángel]]**
 - **[[Cristal Ámbar]]**
 - **[[Moneda eléctrica]]**
 
-### Mansión Durst
----
+# Mansión Durst
+
 - **[[Invitación Durst]]**
 - **[[Polvos misteriosos]]**
 - **[[Carta a Elisabeth Durst]]**
